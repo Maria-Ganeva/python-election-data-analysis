@@ -1,0 +1,53 @@
+﻿"Population estimates on July 1, by age and gender 1 2 3 4 5"
+"Frequency: Annual"
+"Table: 17-10-0005-01 (formerly CANSIM 051-0001)"
+"Release date: 2025-09-24"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography","Northwest Territories 6",,
+"Gender","Total - gender",,
+"Age group 3 7","2019","2020","2021"
+,"Persons",,
+"All ages","44,442","44,504","44,579"
+"0 to 4 years","3,119","3,078","3,014"
+"5 to 9 years","3,034","2,971","2,970"
+"10 to 14 years","2,862","2,947","2,949"
+"15 to 19 years","2,715","2,687","2,722"
+"20 to 24 years","2,999","2,951","2,881"
+"25 to 29 years","3,736","3,642","3,603"
+"30 to 34 years","3,717","3,771","3,837"
+"35 to 39 years","3,430","3,382","3,378"
+"40 to 44 years","3,086","3,153","3,207"
+"45 to 49 years","3,094","3,012","2,900"
+"50 to 54 years","3,116","3,002","3,020"
+"55 to 59 years","3,190","3,280","3,133"
+"60 to 64 years","2,443","2,459","2,562"
+"65 to 69 years","1,679","1,756","1,765"
+"70 to 74 years","1,014","1,111","1,178"
+"75 to 79 years","614","667","772"
+"80 to 84 years","340","361","385"
+"85 to 89 years","155","177","166"
+"90 to 94 years","80","81","119"
+"95 to 99 years","17","16","17"
+"100 years and older","2","0","1"
+,"Years",,
+"Median age","35.1","35.3","35.5"
+
+
+
+
+Footnotes:
+1,"Postcensal estimates are based on the 2021 Census counts adjusted for census net undercoverage (CNU) (including adjustment for incompletely enumerated reserves and settlements (IERS)) and the components of demographic growth that occurred since that census. Intercensal estimates are produced using counts from two consecutive censuses adjusted for CNU (including IERS) and postcensal estimates."
+2,"Estimates are final intercensal up to 2020, final postcensal for 2021, updated postcensal for 2022, 2023 and 2024, and preliminary postcensal for 2025."
+3,"Data for persons aged 90 to 100 years and older will be available from 2001."
+4,"The population growth, which is used to calculate population estimates, is comprised of natural increase (Tables 17100006 and 17100016), international migration (Table 17100014) and interprovincial migration (Table 17100015)."
+5,"The demographic estimates now incorporate the concept of gender, which was first introduced in the 2021 Census of Population. Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman). Demographic estimates are available for the gender category "Men+", which includes men (and/or boys), as well as some non-binary persons, and for the gender category “Women+" category, which includes women (and/or girls), as well as some non-binary persons. For the sake of uniformity, all data products from the Demographic Estimates Program now adopt the term ‘gender’ for all years and periods. Prior to 2021, the demographic estimates are based on the concept of sex at birth. Although gender and sex at birth are two different concepts, this change does not cause a significant break in the trend because the two concepts produce very similar distributions. Population estimates by age and sex at birth are available upon request (please contact statcan.demography-demographie.statcan@statcan.gc.ca)."
+6,"Prior to 1991, only estimates of population for Northwest Territories and Nunavut combined are available."
+7,"Age at last birthday in years."
+
+
+
+"How to cite: Statistics Canada. Table 17-10-0005-01  Population estimates on July 1, by age and gender"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501

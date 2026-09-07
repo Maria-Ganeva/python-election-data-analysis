@@ -1,0 +1,52 @@
+﻿"Population estimates on July 1, by age and gender 1 2 3 4 5"
+"Frequency: Annual"
+"Table: 17-10-0005-01 (formerly CANSIM 051-0001)"
+"Release date: 2025-09-24"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography","Quebec",,
+"Gender","Total - gender",,
+"Age group 3 6","2019","2020","2021"
+,"Persons",,
+"All ages","8,483,186","8,551,095","8,572,020"
+"0 to 4 years","438,219","434,505","425,549"
+"5 to 9 years","467,924","470,130","468,179"
+"10 to 14 years","446,343","462,494","470,612"
+"15 to 19 years","425,037","427,907","429,721"
+"20 to 24 years","504,104","499,297","481,776"
+"25 to 29 years","567,233","567,585","557,103"
+"30 to 34 years","538,666","548,735","559,767"
+"35 to 39 years","580,890","576,465","566,629"
+"40 to 44 years","564,514","577,871","587,972"
+"45 to 49 years","517,501","521,223","526,096"
+"50 to 54 years","559,686","538,318","526,894"
+"55 to 59 years","640,777","635,103","617,260"
+"60 to 64 years","609,490","618,091","627,170"
+"65 to 69 years","509,295","524,512","537,240"
+"70 to 74 years","423,869","435,879","447,014"
+"75 to 79 years","295,088","311,152","326,767"
+"80 to 84 years","191,108","197,043","206,808"
+"85 to 89 years","126,747","126,744","127,681"
+"90 to 94 years","58,550","59,788","62,907"
+"95 to 99 years","15,918","16,103","16,609"
+"100 years and older","2,227","2,150","2,266"
+,"Years",,
+"Median age","42.4","42.4","42.7"
+
+
+
+
+Footnotes:
+1,"Postcensal estimates are based on the 2021 Census counts adjusted for census net undercoverage (CNU) (including adjustment for incompletely enumerated reserves and settlements (IERS)) and the components of demographic growth that occurred since that census. Intercensal estimates are produced using counts from two consecutive censuses adjusted for CNU (including IERS) and postcensal estimates."
+2,"Estimates are final intercensal up to 2020, final postcensal for 2021, updated postcensal for 2022, 2023 and 2024, and preliminary postcensal for 2025."
+3,"Data for persons aged 90 to 100 years and older will be available from 2001."
+4,"The population growth, which is used to calculate population estimates, is comprised of natural increase (Tables 17100006 and 17100016), international migration (Table 17100014) and interprovincial migration (Table 17100015)."
+5,"The demographic estimates now incorporate the concept of gender, which was first introduced in the 2021 Census of Population. Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman). Demographic estimates are available for the gender category "Men+", which includes men (and/or boys), as well as some non-binary persons, and for the gender category “Women+" category, which includes women (and/or girls), as well as some non-binary persons. For the sake of uniformity, all data products from the Demographic Estimates Program now adopt the term ‘gender’ for all years and periods. Prior to 2021, the demographic estimates are based on the concept of sex at birth. Although gender and sex at birth are two different concepts, this change does not cause a significant break in the trend because the two concepts produce very similar distributions. Population estimates by age and sex at birth are available upon request (please contact statcan.demography-demographie.statcan@statcan.gc.ca)."
+6,"Age at last birthday in years."
+
+
+
+"How to cite: Statistics Canada. Table 17-10-0005-01  Population estimates on July 1, by age and gender"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501
